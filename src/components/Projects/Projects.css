@@ -1,4 +1,22 @@
-img {
-    width: 100%;
-    height: auto;
+.project-img, .project-content {
+    height: auto; 
+    width: auto; 
+    max-width: 400px; 
+    max-height: 400px;
+    margin-top: 50px;
+    padding: 15px;	
+    text-align: center;
+}
+
+.project-container {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+}
+
+@media (max-width: 406px) {
+ 	
+ 	.project-container	{
+ 		margin: 0 50px;
+ 	}
 }

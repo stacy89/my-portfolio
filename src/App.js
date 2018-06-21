@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import { Route, BrowserRouter } from "react-router-dom";
 import NavBar from "./components/NavBar/NavBar";
-import AboutMe from "./components/AboutMe/AboutMe";
+// import AboutMe from "./components/AboutMe/AboutMe";
 import Projects from "./components/Projects/Projects";
-import Photography from "./components/Photography/Photography";
+// import Photography from "./components/Photography/Photography";
 import './css/App.css';
 
 class App extends Component {
