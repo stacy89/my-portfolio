@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #693D3D;
+    background-color: #46211A;
 }
 
 li {
@@ -22,12 +22,18 @@ li a {
 }
 
 li a:hover {
-    background-color: #46211A;
+    background-color: #693D3D;
 }
 
 @media (max-width: 406px) {
     li a {
         padding: 50px 10px 15px;
         transition: .5s;
+    }
+}
+
+@media (max-width: 320px) {
+    li a {
+        font-size: 15px;
     }
 }

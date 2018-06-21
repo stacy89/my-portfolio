@@ -8,7 +8,7 @@ const Projects = () => (
 			<div key={data.name}>
 				<img className="project-img" src={data.image} alt={data.name} />
 				<div className="project-content">
-					<p>{data.name}</p>
+					<p className="project-name">{data.name}</p>
 					<p>{data.description}</p>
 					{data.tempLogin && <p>{data.tempLogin}</p>}
 					<p>{data.tech}</p>
