@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #46211A;
+    background-color: black;
 }
 
 li {
@@ -22,7 +22,8 @@ li a {
 }
 
 li a:hover {
-    background-color: #693D3D;
+    background-color: white;
+    color: black
 }
 
 @media (max-width: 406px) {

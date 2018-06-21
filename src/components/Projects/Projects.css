@@ -1,57 +1,58 @@
-.project-img, .project-content {
-    height: auto; 
-    width: auto; 
-    max-width: 400px; 
-    max-height: 400px;
-    padding: 15px;	
-    text-align: center;
-    font-family: 'Abhaya Libre', serif;
-    font-size: 14px;
-}
-
-.project-container {
+.projects-container {
 	display: flex;
-	flex-flow: row wrap;
 	justify-content: space-around;
+	flex-wrap: wrap;
 	margin: 50px 0;
 }
 
-.project-name {
-	font-size: 20px;
-	font-weight: bold;
-}
-
-.project-img {
-	border-radius: 18px;
-	position: absolute;
-}
-
-.project-content {
-	padding: 15px;
+.project-container {
 	position: relative;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	background: rgba(29, 106, 154, 0.72);
-	color: #fff;
-	visibility: hidden;
-	opacity: 0;
-	transition: opacity .2s, visibility .2s;
+	margin-bottom: 30px
 }
 
-.project-img:hover, .project-content {
-	cursor: pointer;
-  	visibility: visible;
-  	opacity: 1;
+.project-img, .project-content-container {
+  display: block;
+  max-width: 400px;
+  max-height: 400px;
+  width: auto;
+  height: auto;
+  border-radius: 5px;
 }
 
-@media (max-width: 414px) {
+.project-content-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: grey;
+}
+
+.project-container:hover .project-content-container {
+  opacity: 1;
+}
+
+.project-content, .project-btn {
+  color: white;
+  font-family: 'Cormorant Infant', serif;
+  font-size: 14px;
+  padding: 1px 15px;
+  text-align: center;
+}
+
+.project-btn {
+	text-decoration: none;
+}
+
+@media (max-width: 500px) {
 
 	.project-img, .project-content	{
  		height: auto; 
 	    width: auto; 
-	    max-width: 300px; 
-	    max-height: 300px;
+	    font-size: 12px;
+	    max-width: 350px; 
+	    max-height: 350px;
  	}
 }
