@@ -1,0 +1,148 @@
+{
+	"photography": [
+		{
+			"category": "Landscape",
+			"image": "public/Landscape/BakerBeach.jpg"
+		},
+		{
+			"category": "Landscape",
+			"image": "public/Landscape/BerkeleySunset.jpg"
+		}, 
+		{
+			"category": "Landscape",
+			"image": "public/Landscape/BigSur.jpg"
+		},
+		{
+			"category": "Landscape",
+			"image": "public/Landscape/GoldenGateBrigde.jpg"
+		},
+		{
+			"category:" "Landscape",
+			"image": "public/Landscape/HalfmoonBayTrail.jpg"
+		},
+		{
+			"category": "Landscape",
+			"image": "public/Landscape/Marina.jpg"
+		},
+		{
+			"category": "Landscape",
+			"image": "public/Landscape/MarinaGGB.jpg'"
+		},
+		{
+			"category": "Landscape",
+			"image": "public/Landscape/MarinMountains.JPG"
+		},
+		{
+			"category": "Portraits",
+			"image": "public/Portraits/AlcoholicEdit.jpg"
+		},
+		{
+			"category": "Portraits",
+			"image": "public/Portraits/AnoerxicEdit.jpg"
+		}, 
+		{
+			"category": "Portraits",
+			"image": "public/Portraits/BingeEatingEdit.jpg"
+		},
+		{
+			"category": "Portraits",
+			"image": "public/Portraits/HeroineEdit.jpg"
+		},
+		{
+			"category": "Portraits",
+			"image": "public/Portraits/PlasticSurgeryEdit.jpg"
+		},
+		{
+			"category": "Portraits",
+			"image": "public/Portraits/PyroEdit.jpg"
+		},
+		{
+			"category": "Portraits",
+			"image": "public/Portraits/SelfMutilationEdit.jpg"
+		},
+		{
+			"category": "Portraits",
+			"image": "public/Portraits/SerialKillerEdit.jpg"
+		},
+		{
+			"category": "Portraits",
+			"image": "public/Portraits/SexEdit.jpg"
+		},
+		{
+			"category": "Portraits",
+			"image": "public/Portraits/SmokingEdit.jpg"
+		},
+		{
+			"category": "Still Life",
+			"image": "public/StillLife/Toaster.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Bishop2014/Photo1.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Bishop2014/Photo2.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Bishop2014/Photo3.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Bishop2014/Photo4.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Bishop2014/Photo5.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Bishop2014/Photo6.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Bishop2014/Photo7.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Bishop2014/Photo8.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Bishop2014/Photo9.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Nicaragua2014/Photo1.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Nicaragua2014/Photo2.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Nicaragua2014/Photo3.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Nicaragua2014/Photo4.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Nicaragua2014/Photo5.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Nicaragua2014/Photo6.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Nicaragua2014/Photo7.jpg"
+		},
+		{
+			"category": "Travel",
+			"image": "public/Travel/Nicaragua2014/Photo9.jpg"
+		}	
+	]
+}

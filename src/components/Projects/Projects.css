@@ -28,7 +28,7 @@
   right: 0;
   opacity: 0;
   transition: .5s ease;
-  background-color: grey;
+  background-color: white;
 }
 
 .project-container:hover .project-content-container {
@@ -37,7 +37,6 @@
 }
 
 .project-content, .project-btn {
-  color: white;
   font-family: 'Nanum Myeongjo', serif;
   font-size: 13px;
   padding: 1px 15px;
