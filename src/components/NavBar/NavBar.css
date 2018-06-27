@@ -1,7 +1,7 @@
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 10px;
     overflow: hidden;
     background-color: black;
 }
@@ -12,8 +12,8 @@ li {
 
 li a {
     display: block;
-    font-family: 'Julius Sans One', sans-serif;
-    font-size: 17px;
+    font-family: 'Capriola', sans-serif;
+    font-size: 15px;
     color: white;
     text-align: center;
     padding: 50px 20px 15px;
@@ -22,7 +22,7 @@ li a {
 }
 
 li a:hover {
-    color: grey;
+    color: #808080;
 }
 
 @media (max-width: 406px) {

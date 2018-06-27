@@ -14,8 +14,8 @@ const Projects = () => (
 					<p className="project-content">{data.description}</p>
 					{data.tempLogin && <p className="project-content">{data.tempLogin}</p>}
 					<p className="project-content">{data.tech}</p>
-					{data.live && <a className="project-btn" href={data.live}>Live</a>}
-					<a className="project-btn" href={data.github}>Github</a>
+					
+					
 				</div>
 			</div>
 		))}	
