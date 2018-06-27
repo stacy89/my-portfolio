@@ -3,7 +3,7 @@
 		{
 			"name": "MediHelper",
 			"image": "images/Projects/MediHelper.png",
-			"description": "MediHelper is an app designed to improve the process of caretaking and provides an easy access of medical information for doctor visits and emergencies. Focused on UI/UX design to create a simple easy to use app. Implemented Passport.js for user auth and error handling.",
+			"description": "An app designed to improve the process of caretaking and provides an easy access of medical information for doctor visits and emergencies. Focused on UI/UX design to create a simple easy to use app. Implemented Passport.js for user auth and error handling.",
 			"tempLogin": "(Login: test, Password: 1234)",
 			"tech": "Tech:  JavaScript, React.js, Node.js, Express, Passport.js, Twilio, Bootstrap, CSS, MongoDB, Full Calendar.",
 			"live": "https://pacific-tor-26182.herokuapp.com/",
@@ -12,7 +12,7 @@
 		{
 			"name": "Time Bank",
 			"image": "images/Projects/TimeBank.png",
-			"description": "Time Bank was built to encourage kids to understand the importance of productive tasks.  Implemented Passport.js for user auth. Setup routes and database so children would link with parents when logged in. Created a simple UI/UX layout.",
+			"description": "Was built to encourage kids to understand the importance of productive tasks.  Implemented Passport.js for user auth. Setup routes and database so children would link with parents when logged in. Created a simple UI/UX layout.",
 			"tempLogin": "(Login: John, Password: user)",
 			"tech": "Tech:  Javascript, Node.js, Express, jQuery, MySQL, Passport.js, Sequelize, Chart.js, Handlebars, Bootstrap.",
 			"live": "https://timebankio.herokuapp.com/",

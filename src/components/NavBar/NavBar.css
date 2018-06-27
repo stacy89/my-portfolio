@@ -22,8 +22,7 @@ li a {
 }
 
 li a:hover {
-    background-color: white;
-    color: black
+    color: grey;
 }
 
 @media (max-width: 406px) {

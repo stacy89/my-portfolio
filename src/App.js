@@ -4,7 +4,7 @@ import NavBar from "./components/NavBar/NavBar";
 // import AboutMe from "./components/AboutMe/AboutMe";
 import Projects from "./components/Projects/Projects";
 // import Photography from "./components/Photography/Photography";
-import './css/App.css';
+import "./css/App.css";
 
 class App extends Component {
  	render() {

@@ -8,9 +8,9 @@ const Projects = () => (
 			<div key={data.name} className="project-container">
 
 				<img className="project-img" src={data.image} alt={data.name} />
+				<p className="project-name">{data.name}</p>
 
 				<div className="project-content-container">
-					<p className="project-content">{data.name}</p>
 					<p className="project-content">{data.description}</p>
 					{data.tempLogin && <p className="project-content">{data.tempLogin}</p>}
 					<p className="project-content">{data.tech}</p>

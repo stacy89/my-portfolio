@@ -2,22 +2,25 @@
 	display: flex;
 	justify-content: space-around;
 	flex-wrap: wrap;
-	margin: 50px 0;
+	margin: 100px;
 }
 
 .project-container {
 	position: relative;
-	margin-bottom: 30px;
+	margin-bottom: 40px;
+  padding: 10px;
+  border-radius: 3px;
+  box-shadow: 2px 3px 2px #cccccc;
+  background-color: white;
 }
 
 .project-img, .project-content-container {
   display: block;
-  max-width: 400px;
-  max-height: 400px;
+  max-width: 350px;
+  max-height: 350px;
   width: auto;
   height: auto;
-  border-radius: 2px;
-  box-shadow: 2px 6px 4px #cccccc;
+  border-radius: 3px;
 }
 
 .project-content-container {
@@ -34,11 +37,12 @@
 .project-container:hover .project-content-container {
   opacity: 1;
   cursor: pointer;
+  padding: 10px;
 }
 
 .project-content, .project-btn {
   font-family: 'Nanum Myeongjo', serif;
-  font-size: 13px;
+  font-size: 12px;
   padding: 1px 15px;
   text-align: center;
 }
