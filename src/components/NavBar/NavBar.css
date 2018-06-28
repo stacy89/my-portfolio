@@ -6,11 +6,11 @@ ul {
     background-color: black;
 }
 
-li {
+.navbar-link {
     float: left;
 }
 
-li a {
+.navbar-link a {
     display: block;
     font-family: 'Capriola', sans-serif;
     font-size: 15px;
@@ -21,19 +21,19 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+.navbar-link a:hover {
     color: #808080;
 }
 
 @media (max-width: 406px) {
-    li a {
+    .navbar-link a {
         padding: 50px 10px 15px;
         transition: .5s;
     }
 }
 
 @media (max-width: 320px) {
-    li a {
+    .navbar-link a {
         font-size: 15px;
     }
 }
